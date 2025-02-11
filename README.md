@@ -1,0 +1,2 @@
+# MongoDB $inc operator error
+This repository demonstrates an incorrect usage of the MongoDB $inc operator and provides a solution. The issue stems from providing a string value instead of a number to the $inc operator, which may lead to unexpected updates.
